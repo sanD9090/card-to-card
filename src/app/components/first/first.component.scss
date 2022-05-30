@@ -1,0 +1,58 @@
+// mat-card-header{
+//     background: rgba(41, 55, 160, 0.712);
+//     padding: 5px;
+
+//   }
+//   mat-card{
+//     padding:0;
+//     width: 30%;
+//     height: 40%;
+//   }
+mat-card-title{
+    margin-top: 10px;
+}
+mat-card-header {
+  background-color:#C2DED1;
+  height: 40px ;
+
+}
+.cards{
+    display: flex;
+}
+mat-card {
+  padding: 0;
+  width: 20%;
+  height: 190px;
+  overflow: auto;
+  
+
+  margin-top: 10px;
+  margin-left:10px ;
+  
+}
+
+mat-card-content {
+  display: block;
+  overflow: auto;
+  padding: 0;
+  
+}
+button{
+   
+  font-weight: 400 !important;
+}
+
+li {
+    padding: 0;
+    list-style-type: none;
+   
+  
+}
+ul{
+    margin: 0;
+}
+button{
+    width: 100% ;
+  
+    
+}
